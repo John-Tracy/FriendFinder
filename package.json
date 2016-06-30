@@ -1,0 +1,33 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "a app to find friends",
+  "engines" : {
+    "npm": "4.4.5"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Tracy/FriendFinder.git"
+  },
+  "keywords": [
+    "node",
+    "json",
+    "javascript"
+  ],
+  "author": "john-tracy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-Tracy/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/John-Tracy/FriendFinder#readme"
+}
