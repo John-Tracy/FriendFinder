@@ -2,8 +2,8 @@ var theUser;
 
 function User(name, pic, answers){
 	this.name = name;
-	this.pic = pic;
-	this.answers = answers;
+	this.picture = pic;
+	this.scores = answers;
 
 };
 
