@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a app to find friends",
   "engines" : {
-    "npm": "4.4.5"
+    "npm": "4.x"
   },
   "main": "server.js",
   "dependencies": {
